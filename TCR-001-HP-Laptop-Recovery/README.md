@@ -42,3 +42,14 @@ The successful backup provided a safe recovery point, allowing operating system 
 Based on the investigation, the operating system was determined to be in a state where a clean reinstallation provided the most reliable recovery option.
 
 Although the exact cause of the failure could not be conclusively identified due to previous repair attempts, the successful restoration of functionality after reinstalling Windows indicated that software corruption was the most probable cause.
+
+---
+
+## Resolution
+
+After successfully preserving the user's important files, a clean installation of the Windows operating system was performed to restore system functionality.
+
+The installation process completed successfully, and the required system drivers and essential software components were configured to return the laptop to an operational state.
+
+The chosen remediation approach prioritized data preservation while providing a stable and reliable operating environment.
+
