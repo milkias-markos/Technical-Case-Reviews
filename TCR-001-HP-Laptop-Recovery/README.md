@@ -35,3 +35,10 @@ After confirming the presence of valuable data, command-line tools were used to 
 
 The successful backup provided a safe recovery point, allowing operating system restoration to proceed without risking user data.
 
+---
+
+## Root Cause Analysis
+
+Based on the investigation, the operating system was determined to be in a state where a clean reinstallation provided the most reliable recovery option.
+
+Although the exact cause of the failure could not be conclusively identified due to previous repair attempts, the successful restoration of functionality after reinstalling Windows indicated that software corruption was the most probable cause.
