@@ -86,3 +86,16 @@ Protecting user data before performing remediation aligns with the principle of 
 This experience strengthened my understanding that effective technical support and cybersecurity both rely on careful analysis, risk assessment, and methodical execution.
 
 
+
+---
+
+## Tools and Technologies Used
+
+* Windows Command Line
+* Windows Installation Media
+* HP Laptop Hardware
+* Storage Device Backup Process
+* Windows Operating System
+
+> Note: The focus of this case was on applying a structured troubleshooting methodology rather than the use of specialized forensic or cybersecurity tools.
+
