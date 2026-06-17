@@ -73,3 +73,16 @@ It also demonstrated the value of gathering information from the user, following
 
 Applying a methodical approach reduced the risk of data loss and resulted in a successful recovery of the system.
 
+
+
+---
+
+## Security Perspective
+
+Although this case involved system recovery rather than a direct cybersecurity incident, it highlights several security principles that are equally important in defensive operations.
+
+Protecting user data before performing remediation aligns with the principle of preserving critical assets. The structured investigation process, evidence-based decision making, and verification of successful recovery reflect the disciplined approach required in incident response and Security Operations Center (SOC) environments.
+
+This experience strengthened my understanding that effective technical support and cybersecurity both rely on careful analysis, risk assessment, and methodical execution.
+
+
