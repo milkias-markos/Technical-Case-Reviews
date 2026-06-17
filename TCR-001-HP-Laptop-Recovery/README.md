@@ -23,5 +23,15 @@ Initial troubleshooting methods did not resolve the issue. Before considering a 
 The user confirmed that valuable data existed on the laptop, making data recovery the highest priority before any corrective action that could risk data loss.
 
 
+---
 
+## Investigation
+
+A structured investigation was performed to determine the most appropriate recovery approach while minimizing the risk of data loss.
+
+The user was first interviewed to understand the history of the problem and to identify the importance of the stored files.
+
+After confirming the presence of valuable data, command-line tools were used to access the storage device and successfully back up the required files before any major corrective action was taken.
+
+The successful backup provided a safe recovery point, allowing operating system restoration to proceed without risking user data.
 
