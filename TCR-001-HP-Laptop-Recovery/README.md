@@ -62,3 +62,14 @@ Following the clean installation of Windows and system configuration, the laptop
 Basic functionality tests confirmed that the operating system was stable, the device was responsive, and the user data had been successfully preserved through the backup process.
 
 The system was returned to the user in a functional state with the identified issue resolved.
+
+---
+
+## Lessons Learned
+
+This case reinforced the importance of prioritizing data preservation before performing major corrective actions such as operating system reinstallation.
+
+It also demonstrated the value of gathering information from the user, following a structured investigation process, and validating that critical data has been secured before proceeding with remediation.
+
+Applying a methodical approach reduced the risk of data loss and resulted in a successful recovery of the system.
+
